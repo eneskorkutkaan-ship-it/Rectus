@@ -1,0 +1,8 @@
+{
+  "name": "Rectus AI",
+  "description": "A high-performance React chat application demonstrating Gemini API capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
